@@ -31,7 +31,6 @@
 		4A7910D41D1D4BA800DB790B /* classes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = classes.swift; path = Nucleus/classes.swift; sourceTree = "<group>"; };
 		4A7910D51D1D4BA800DB790B /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Nucleus/Main.storyboard; sourceTree = "<group>"; };
 		4A7910D61D1D4BA800DB790B /* xlog.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = xlog.swift; path = Nucleus/xlog.swift; sourceTree = "<group>"; };
-		4ADBA50E1CC12C5300C397AB /* Nucleus-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Nucleus-Bridging-Header.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +58,6 @@
 				4A34D7F51C91958900E66EB4 /* PopoverController.xib */,
 				4A34D7F31C91958900E66EB4 /* Info.plist */,
 				4A34D7F21C91958900E66EB4 /* Assets.xcassets */,
-				4ADBA50E1CC12C5300C397AB /* Nucleus-Bridging-Header.h */,
 				4A34D7D61C91623A00E66EB4 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -250,7 +248,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.thisbetterwork.Nucleus;
 				PRODUCT_NAME = Nucleus;
-				SWIFT_OBJC_BRIDGING_HEADER = "Nucleus-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
@@ -265,7 +263,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.thisbetterwork.Nucleus;
 				PRODUCT_NAME = Nucleus;
-				SWIFT_OBJC_BRIDGING_HEADER = "Nucleus-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "";
 			};
 			name = Release;
 		};
