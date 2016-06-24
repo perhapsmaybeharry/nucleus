@@ -1,0 +1,9 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "069a1bdf8e0f9f092960a6f9784ac552"
+build_time: [514539842, 125098000]
+inputs:
+  "/Users/Harry/Programs/Swift 2/Nucleus/Nucleus/AppDelegate.swift": [514538334, 0]
+  "/Users/Harry/Programs/Swift 2/Nucleus/PrefPopover.swift": [514265378, 0]
+  "/Users/Harry/Programs/Swift 2/Nucleus/Nucleus/PopoverController.swift": [514539674, 0]
+  "/Users/Harry/Programs/Swift 2/Nucleus/classes.swift": [514539298, 0]
+  "/Users/Harry/Programs/Swift 2/Nucleus/xlog.swift": [514098516, 0]
