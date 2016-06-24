@@ -11,11 +11,11 @@
 		4A34D7F81C91958900E66EB4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A34D7F21C91958900E66EB4 /* Assets.xcassets */; };
 		4A34D7FA1C91958900E66EB4 /* PopoverController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A34D7F41C91958900E66EB4 /* PopoverController.swift */; };
 		4A34D7FB1C91958900E66EB4 /* PopoverController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4A34D7F51C91958900E66EB4 /* PopoverController.xib */; };
-		4A34D7FE1C9195AF00E66EB4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A34D7FD1C9195AF00E66EB4 /* Main.storyboard */; };
-		4A34D8041C91B48D00E66EB4 /* xlog.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A34D8031C91B48D00E66EB4 /* xlog.swift */; };
-		4A82333C1CC36A5600637D5E /* PrefPopover.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A82333A1CC36A5600637D5E /* PrefPopover.swift */; };
-		4A82333D1CC36A5600637D5E /* PrefPopover.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4A82333B1CC36A5600637D5E /* PrefPopover.xib */; };
-		4AFDBD9A1CBCCB5000203F20 /* classes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AFDBD991CBCCB5000203F20 /* classes.swift */; };
+		4A7910D71D1D4BA800DB790B /* PrefPopover.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A7910D11D1D4BA800DB790B /* PrefPopover.swift */; };
+		4A7910D81D1D4BA800DB790B /* PrefPopover.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4A7910D21D1D4BA800DB790B /* PrefPopover.xib */; };
+		4A7910DA1D1D4BA800DB790B /* classes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A7910D41D1D4BA800DB790B /* classes.swift */; };
+		4A7910DB1D1D4BA800DB790B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A7910D51D1D4BA800DB790B /* Main.storyboard */; };
+		4A7910DC1D1D4BA800DB790B /* xlog.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A7910D61D1D4BA800DB790B /* xlog.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,13 +25,13 @@
 		4A34D7F31C91958900E66EB4 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = Nucleus/Info.plist; sourceTree = "<group>"; };
 		4A34D7F41C91958900E66EB4 /* PopoverController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PopoverController.swift; path = Nucleus/PopoverController.swift; sourceTree = "<group>"; };
 		4A34D7F51C91958900E66EB4 /* PopoverController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = PopoverController.xib; path = Nucleus/PopoverController.xib; sourceTree = "<group>"; };
-		4A34D7FD1C9195AF00E66EB4 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
-		4A34D8031C91B48D00E66EB4 /* xlog.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = xlog.swift; sourceTree = "<group>"; };
-		4A4C593A1CBFDE950032F5CB /* todo */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = todo; sourceTree = "<group>"; };
-		4A82333A1CC36A5600637D5E /* PrefPopover.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrefPopover.swift; sourceTree = "<group>"; };
-		4A82333B1CC36A5600637D5E /* PrefPopover.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PrefPopover.xib; sourceTree = "<group>"; };
+		4A7910D11D1D4BA800DB790B /* PrefPopover.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PrefPopover.swift; path = Nucleus/PrefPopover.swift; sourceTree = "<group>"; };
+		4A7910D21D1D4BA800DB790B /* PrefPopover.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = PrefPopover.xib; path = Nucleus/PrefPopover.xib; sourceTree = "<group>"; };
+		4A7910D31D1D4BA800DB790B /* todo */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = todo; path = Nucleus/todo; sourceTree = "<group>"; };
+		4A7910D41D1D4BA800DB790B /* classes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = classes.swift; path = Nucleus/classes.swift; sourceTree = "<group>"; };
+		4A7910D51D1D4BA800DB790B /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Nucleus/Main.storyboard; sourceTree = "<group>"; };
+		4A7910D61D1D4BA800DB790B /* xlog.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = xlog.swift; path = Nucleus/xlog.swift; sourceTree = "<group>"; };
 		4ADBA50E1CC12C5300C397AB /* Nucleus-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Nucleus-Bridging-Header.h"; sourceTree = "<group>"; };
-		4AFDBD991CBCCB5000203F20 /* classes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = classes.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,15 +48,15 @@
 		4A34D7CC1C91623A00E66EB4 = {
 			isa = PBXGroup;
 			children = (
-				4A4C593A1CBFDE950032F5CB /* todo */,
-				4A34D8031C91B48D00E66EB4 /* xlog.swift */,
+				4A7910D11D1D4BA800DB790B /* PrefPopover.swift */,
+				4A7910D21D1D4BA800DB790B /* PrefPopover.xib */,
+				4A7910D31D1D4BA800DB790B /* todo */,
+				4A7910D41D1D4BA800DB790B /* classes.swift */,
+				4A7910D51D1D4BA800DB790B /* Main.storyboard */,
+				4A7910D61D1D4BA800DB790B /* xlog.swift */,
 				4A34D7F11C91958900E66EB4 /* AppDelegate.swift */,
-				4AFDBD991CBCCB5000203F20 /* classes.swift */,
 				4A34D7F41C91958900E66EB4 /* PopoverController.swift */,
 				4A34D7F51C91958900E66EB4 /* PopoverController.xib */,
-				4A82333A1CC36A5600637D5E /* PrefPopover.swift */,
-				4A82333B1CC36A5600637D5E /* PrefPopover.xib */,
-				4A34D7FD1C9195AF00E66EB4 /* Main.storyboard */,
 				4A34D7F31C91958900E66EB4 /* Info.plist */,
 				4A34D7F21C91958900E66EB4 /* Assets.xcassets */,
 				4ADBA50E1CC12C5300C397AB /* Nucleus-Bridging-Header.h */,
@@ -130,10 +130,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4A82333D1CC36A5600637D5E /* PrefPopover.xib in Resources */,
+				4A7910DB1D1D4BA800DB790B /* Main.storyboard in Resources */,
 				4A34D7FB1C91958900E66EB4 /* PopoverController.xib in Resources */,
 				4A34D7F81C91958900E66EB4 /* Assets.xcassets in Resources */,
-				4A34D7FE1C9195AF00E66EB4 /* Main.storyboard in Resources */,
+				4A7910D81D1D4BA800DB790B /* PrefPopover.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -144,11 +144,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4A7910DA1D1D4BA800DB790B /* classes.swift in Sources */,
+				4A7910D71D1D4BA800DB790B /* PrefPopover.swift in Sources */,
 				4A34D7F71C91958900E66EB4 /* AppDelegate.swift in Sources */,
-				4A82333C1CC36A5600637D5E /* PrefPopover.swift in Sources */,
 				4A34D7FA1C91958900E66EB4 /* PopoverController.swift in Sources */,
-				4AFDBD9A1CBCCB5000203F20 /* classes.swift in Sources */,
-				4A34D8041C91B48D00E66EB4 /* xlog.swift in Sources */,
+				4A7910DC1D1D4BA800DB790B /* xlog.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
